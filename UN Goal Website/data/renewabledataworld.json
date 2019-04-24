@@ -1,0 +1,703 @@
+[
+ 
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1800,
+    "Traditional biofuels (terrawatt-hours)": 5555.555556,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1810,
+    "Traditional biofuels (terrawatt-hours)": 5833.333333,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1820,
+    "Traditional biofuels (terrawatt-hours)": 6111.111111,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1830,
+    "Traditional biofuels (terrawatt-hours)": 6388.888889,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1840,
+    "Traditional biofuels (terrawatt-hours)": 6944.444444,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1850,
+    "Traditional biofuels (terrawatt-hours)": 7222.222222,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1860,
+    "Traditional biofuels (terrawatt-hours)": 6944.444444,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1870,
+    "Traditional biofuels (terrawatt-hours)": 6944.444444,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1880,
+    "Traditional biofuels (terrawatt-hours)": 6944.444444,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 0
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1890,
+    "Traditional biofuels (terrawatt-hours)": 6666.666667,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 13.88888889
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1900,
+    "Traditional biofuels (terrawatt-hours)": 6111.111111,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 16.66666667
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1910,
+    "Traditional biofuels (terrawatt-hours)": 6388.888889,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 33.33333333
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1920,
+    "Traditional biofuels (terrawatt-hours)": 6944.444444,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 63.88888889
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1930,
+    "Traditional biofuels (terrawatt-hours)": 7222.222222,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 130.5555556
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1940,
+    "Traditional biofuels (terrawatt-hours)": 7222.222222,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 191.6666667
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1950,
+    "Traditional biofuels (terrawatt-hours)": 7500,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 333.3333333
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1960,
+    "Traditional biofuels (terrawatt-hours)": 8888.888889,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 688.8888889
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1965,
+    "Traditional biofuels (terrawatt-hours)": 9162.456946,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 5.02,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 919.7702757
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1966,
+    "Traditional biofuels (terrawatt-hours)": 9218.172711,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 6.165,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 986.2858717
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1967,
+    "Traditional biofuels (terrawatt-hours)": 9274.227277,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 6.425,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1009.244569
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1968,
+    "Traditional biofuels (terrawatt-hours)": 9330.622704,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 7.244,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1059.06286
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1969,
+    "Traditional biofuels (terrawatt-hours)": 9387.361065,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 7.914904,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1122.442526
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1970,
+    "Traditional biofuels (terrawatt-hours)": 9444.444444,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 10.356135311282102,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1174.560348
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1971,
+    "Traditional biofuels (terrawatt-hours)": 9498.581964,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 12.180244648645903,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1221.63273
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1972,
+    "Traditional biofuels (terrawatt-hours)": 9553.029811,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 13.102522893145597,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1276.766396
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1973,
+    "Traditional biofuels (terrawatt-hours)": 9607.789765,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 14.487447487254578,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1292.752251
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1974,
+    "Traditional biofuels (terrawatt-hours)": 9662.863614,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 16.405581210526346,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1419.046721
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1975,
+    "Traditional biofuels (terrawatt-hours)": 9718.253158,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 18.393322366029828,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1440.451903
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1976,
+    "Traditional biofuels (terrawatt-hours)": 9773.960206,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 20.019290416720775,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1435.228335
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1977,
+    "Traditional biofuels (terrawatt-hours)": 9829.986579,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 21.35914996147643,
+    "Wind (Terawatt-hours)": 0,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1472.559263
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1978,
+    "Traditional biofuels (terrawatt-hours)": 9886.334106,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 21.83247520293256,
+    "Wind (Terawatt-hours)": 0.003,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1588.704502
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1979,
+    "Traditional biofuels (terrawatt-hours)": 9943.00463,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 25.056237012614073,
+    "Wind (Terawatt-hours)": 0.006,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1667.584671
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1980,
+    "Traditional biofuels (terrawatt-hours)": 10000,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 28.619135462910815,
+    "Wind (Terawatt-hours)": 0.010499999999999999,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1698.609443
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1981,
+    "Traditional biofuels (terrawatt-hours)": 10105.91751,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 32.22058955621449,
+    "Wind (Terawatt-hours)": 0.010499999999999999,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1725.232746
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1982,
+    "Traditional biofuels (terrawatt-hours)": 10212.95688,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 40.48476805631252,
+    "Wind (Terawatt-hours)": 0.018499999999999996,
+    "Solar PV (Terawatt-hours)": 0,
+    "Hydropower (TWh)": 1796.883172
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1983,
+    "Traditional biofuels (terrawatt-hours)": 10321.12997,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 45.0555776726595,
+    "Wind (Terawatt-hours)": 0.03279494949494946,
+    "Solar PV (Terawatt-hours)": 0.003,
+    "Hydropower (TWh)": 1879.268978
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1984,
+    "Traditional biofuels (terrawatt-hours)": 10430.44881,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 49.4490379155828,
+    "Wind (Terawatt-hours)": 0.04475555555555548,
+    "Solar PV (Terawatt-hours)": 0.0063111111111111,
+    "Hydropower (TWh)": 1941.059184
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1985,
+    "Traditional biofuels (terrawatt-hours)": 10540.92553,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 52.506452346480046,
+    "Wind (Terawatt-hours)": 0.06422020202020197,
+    "Solar PV (Terawatt-hours)": 0.011747474747474736,
+    "Hydropower (TWh)": 1979.586782
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1986,
+    "Traditional biofuels (terrawatt-hours)": 10652.57239,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 58.97893828263415,
+    "Wind (Terawatt-hours)": 0.1388313131313131,
+    "Solar PV (Terawatt-hours)": 0.015183838383838372,
+    "Hydropower (TWh)": 2006.719694
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1987,
+    "Traditional biofuels (terrawatt-hours)": 10765.40179,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 61.89326118767239,
+    "Wind (Terawatt-hours)": 0.19537676767676762,
+    "Solar PV (Terawatt-hours)": 0.010603030303030303,
+    "Hydropower (TWh)": 2034.519979
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1988,
+    "Traditional biofuels (terrawatt-hours)": 10879.42625,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 64.46668516133727,
+    "Wind (Terawatt-hours)": 0.33157979797979803,
+    "Solar PV (Terawatt-hours)": 0.010195959595959583,
+    "Hydropower (TWh)": 2099.11293
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1989,
+    "Traditional biofuels (terrawatt-hours)": 10994.65842,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 104.31635974613162,
+    "Wind (Terawatt-hours)": 2.649776767676741,
+    "Solar PV (Terawatt-hours)": 0.26222323232323225,
+    "Hydropower (TWh)": 2086.54264
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1990,
+    "Traditional biofuels (terrawatt-hours)": 11111.11111,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 116.44002723061908,
+    "Wind (Terawatt-hours)": 3.6324705158989543,
+    "Solar PV (Terawatt-hours)": 0.3865626262626262,
+    "Hydropower (TWh)": 2161.045291
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1991,
+    "Traditional biofuels (terrawatt-hours)": 11242.7549,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 121.73666936238178,
+    "Wind (Terawatt-hours)": 4.086106674707033,
+    "Solar PV (Terawatt-hours)": 0.5064604487250298,
+    "Hydropower (TWh)": 2213.110915
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1992,
+    "Traditional biofuels (terrawatt-hours)": 11375.95839,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 130.44658728572614,
+    "Wind (Terawatt-hours)": 4.7328120191514795,
+    "Solar PV (Terawatt-hours)": 0.46881339231650393,
+    "Hydropower (TWh)": 2211.503167
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1993,
+    "Traditional biofuels (terrawatt-hours)": 11510.74008,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 134.8307811133912,
+    "Wind (Terawatt-hours)": 5.696168819393899,
+    "Solar PV (Terawatt-hours)": 0.5567955038279175,
+    "Hydropower (TWh)": 2344.266136
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1994,
+    "Traditional biofuels (terrawatt-hours)": 11647.11865,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 140.29993856168565,
+    "Wind (Terawatt-hours)": 7.125568228080761,
+    "Solar PV (Terawatt-hours)": 0.6009917031380585,
+    "Hydropower (TWh)": 2359.685227
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1995,
+    "Traditional biofuels (terrawatt-hours)": 11785.11302,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 146.09338725829699,
+    "Wind (Terawatt-hours)": 8.263083039595916,
+    "Solar PV (Terawatt-hours)": 0.641599638074462,
+    "Hydropower (TWh)": 2488.983207
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1996,
+    "Traditional biofuels (terrawatt-hours)": 11924.74234,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 151.38897048040687,
+    "Wind (Terawatt-hours)": 9.179570357565618,
+    "Solar PV (Terawatt-hours)": 0.7049251433159909,
+    "Hydropower (TWh)": 2523.481143
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1997,
+    "Traditional biofuels (terrawatt-hours)": 12066.02598,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 161.4417738989394,
+    "Wind (Terawatt-hours)": 11.992895863717129,
+    "Solar PV (Terawatt-hours)": 0.7570716606165793,
+    "Hydropower (TWh)": 2569.633113
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1998,
+    "Traditional biofuels (terrawatt-hours)": 12208.98355,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 168.7996208347577,
+    "Wind (Terawatt-hours)": 15.918789459724106,
+    "Solar PV (Terawatt-hours)": 0.8797248549971616,
+    "Hydropower (TWh)": 2590.551798
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 1999,
+    "Traditional biofuels (terrawatt-hours)": 12414.05573,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 178.15354745565637,
+    "Wind (Terawatt-hours)": 21.237848743983083,
+    "Solar PV (Terawatt-hours)": 0.96455704736576,
+    "Hydropower (TWh)": 2608.338262
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2000,
+    "Traditional biofuels (terrawatt-hours)": 12500,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 183.9059626082979,
+    "Wind (Terawatt-hours)": 31.50290163342617,
+    "Solar PV (Terawatt-hours)": 1.1508539363960635,
+    "Hydropower (TWh)": 2654.953445
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2001,
+    "Traditional biofuels (terrawatt-hours)": 12500,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 190.55956932063867,
+    "Wind (Terawatt-hours)": 38.6392824266696,
+    "Solar PV (Terawatt-hours)": 1.4257084250852414,
+    "Hydropower (TWh)": 2586.668594
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2002,
+    "Traditional biofuels (terrawatt-hours)": 12470,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 204.61359747362846,
+    "Wind (Terawatt-hours)": 52.97929141296189,
+    "Solar PV (Terawatt-hours)": 1.8072595549122914,
+    "Hydropower (TWh)": 2633.835653
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2003,
+    "Traditional biofuels (terrawatt-hours)": 12328.70237,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 216.8351491811514,
+    "Wind (Terawatt-hours)": 63.391005997817466,
+    "Solar PV (Terawatt-hours)": 2.294241983284608,
+    "Hydropower (TWh)": 2629.430399
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2004,
+    "Traditional biofuels (terrawatt-hours)": 12159.75217,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 234.22685870049915,
+    "Wind (Terawatt-hours)": 85.58007667484969,
+    "Solar PV (Terawatt-hours)": 3.0094750653244335,
+    "Hydropower (TWh)": 2808.226932
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2005,
+    "Traditional biofuels (terrawatt-hours)": 12076.14729,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 255.13590381563546,
+    "Wind (Terawatt-hours)": 104.21931112492308,
+    "Solar PV (Terawatt-hours)": 4.229917053360664,
+    "Hydropower (TWh)": 2918.064831
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2006,
+    "Traditional biofuels (terrawatt-hours)": 11993.11724,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 273.02655149030204,
+    "Wind (Terawatt-hours)": 133.0357515167492,
+    "Solar PV (Terawatt-hours)": 5.782574850575512,
+    "Hydropower (TWh)": 3030.307944
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2007,
+    "Traditional biofuels (terrawatt-hours)": 11910.65806,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 295.1348241226889,
+    "Wind (Terawatt-hours)": 170.84242460839857,
+    "Solar PV (Terawatt-hours)": 7.702112601714519,
+    "Hydropower (TWh)": 3079.79887
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2008,
+    "Traditional biofuels (terrawatt-hours)": 11828.76583,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 313.50749917723385,
+    "Wind (Terawatt-hours)": 219.05943122843047,
+    "Solar PV (Terawatt-hours)": 12.591230496763256,
+    "Hydropower (TWh)": 3263.589026
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2009,
+    "Traditional biofuels (terrawatt-hours)": 11747.43666,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 336.9703889355299,
+    "Wind (Terawatt-hours)": 277.8990720070511,
+    "Solar PV (Terawatt-hours)": 20.91791860695777,
+    "Hydropower (TWh)": 3253.601171
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2010,
+    "Traditional biofuels (terrawatt-hours)": 11666.66667,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 376.49663261810565,
+    "Wind (Terawatt-hours)": 341.4172769982241,
+    "Solar PV (Terawatt-hours)": 33.81625431470319,
+    "Hydropower (TWh)": 3435.905581
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2011,
+    "Traditional biofuels (terrawatt-hours)": 11553.3766,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 398.5553879940264,
+    "Wind (Terawatt-hours)": 436.54059099650584,
+    "Solar PV (Terawatt-hours)": 64.69511238378944,
+    "Hydropower (TWh)": 3503.227091
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2012,
+    "Traditional biofuels (terrawatt-hours)": 11441.18663,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 427.22248545104776,
+    "Wind (Terawatt-hours)": 526.8814283830392,
+    "Solar PV (Terawatt-hours)": 100.03390736759329,
+    "Hydropower (TWh)": 3671.297583
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2013,
+    "Traditional biofuels (terrawatt-hours)": 11330.0861,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 458.74294213592606,
+    "Wind (Terawatt-hours)": 644.4102387889266,
+    "Solar PV (Terawatt-hours)": 137.56115379838994,
+    "Hydropower (TWh)": 3797.954118
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2014,
+    "Traditional biofuels (terrawatt-hours)": 11220.06442,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 496.51492600972676,
+    "Wind (Terawatt-hours)": 709.2977719729986,
+    "Solar PV (Terawatt-hours)": 196.33298751611736,
+    "Hydropower (TWh)": 3887.930335
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2015,
+    "Traditional biofuels (terrawatt-hours)": 11111.11111,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 536.4109463508142,
+    "Wind (Terawatt-hours)": 828.0351755945172,
+    "Solar PV (Terawatt-hours)": 256.1909288132038,
+    "Hydropower (TWh)": 3891.408797
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2016,
+    "Traditional biofuels (terrawatt-hours)": 11003.2158,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": 561.666064109647,
+    "Wind (Terawatt-hours)": 959.5295060515963,
+    "Solar PV (Terawatt-hours)": 333.0524925053244,
+    "Hydropower (TWh)": 4036.073668
+  },
+  {
+    "Entity": "World",
+    "Code": "OWID_WRL",
+    "Year": 2017,
+    "Traditional biofuels (terrawatt-hours)": 10895.32049,
+    "Other renewables (modern biofuels, geothermal, wave & tidal) (terawatt-hours)": "",
+    "Wind (Terawatt-hours)": "",
+    "Solar PV (Terawatt-hours)": "",
+    "Hydropower (TWh)": 4059.868393
+  }
+]
